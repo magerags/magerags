@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magerags
+- 👋 Hi, I’m Tom and I'm a Full Stack Developer
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning React :O
 - 📫 Reach me at tomwhittle@hey.com

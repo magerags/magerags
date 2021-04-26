@@ -2,4 +2,4 @@
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning React & Redux :O 
 - 📫 Reach me at tomwhittle@hey.com
-- 👾 See my work at <a href="https://tomwhittl.com/" target="_blank">tomwhittl.com</a>
+- 👾 See my work at <a href="https://tomwhittl.com/" target="_blank">tomwhittl.com</a> 

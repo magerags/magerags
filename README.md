@@ -2,4 +2,3 @@
 - 👀 I’m interested in EVERYTHING 
 - 🌱 I’m currently learning React with Next.js
 - 📫 Reach me at tomwhittle@hey.com
-- 👾 See my work at <a href="https://tomwhittl.com/" target="_blank">tomwhittl.com</a> 

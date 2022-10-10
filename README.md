@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tom and I'm a Full Stack Developer at Andersen EV
 - 👀 I’m interested in EVERYTHING 
-- 🌱 I’m currently learning React with Next.js
+- 🌱 I’m currently learning React Native
 - 📫 Reach me at tomwhittle@hey.com

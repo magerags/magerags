@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom and I'm a Software Engineer at Key ESG
+- 👋 Hi, I’m Tom and I'm a Software Engineer at Stotles
 - 👀 I’m interested in EVERYTHING 
 - 🌱 I’m currently learning React Native
 - 📫 Reach me at tomwhittle@hey.com

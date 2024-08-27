@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tom and I'm a Software Engineer at Stotles
 - 👀 I’m interested in EVERYTHING 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning graphQL and NestJS
 - 📫 Reach me at tomwhittle@hey.com

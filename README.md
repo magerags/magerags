@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tom and I'm a Software Engineer at Stotles
 - 👀 I’m interested in EVERYTHING 
-- 🌱 I’m currently learning graphQL and NestJS
+- 🌱 I’m currently learning GraphQL and NestJS
 - 📫 Reach me at tomwhittle@hey.com

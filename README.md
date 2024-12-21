@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Tom and I'm a Software Engineer at Stotles
-- 👀 I’m interested in EVERYTHING 
-- 🌱 I’m currently learning GraphQL and NestJS
+- 👋 Hi, I’m Tom and I'm the Founding Engineer @ Artificial Societies
+- 👀 We're simulating human networks and social cohesion using AI agents
 - 📫 Reach me at tomwhittle@hey.com
